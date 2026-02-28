@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Sou apenas um jovem tentando entrar no mundo da tecnologia<br><br>- 📍 Belo Horizonte/ MG<br>- 📚 Cursando o Ensino Medio<br>- 📚 Cursando Desenvolvimento De Sistemas No Senai<br>- ⚡ No meu tempo livre gosto de estudar, jogar, ouvir musica e andar de skate</p>
+<p align="left">Sou apenas um jovem tentando entrar no mundo da tecnologia<br><br>- 📍 Belo Horizonte/ MG<br>- 📚 Cursando Analise e Desenvolvimento de Sistemas<br>- 📚 Formado em Desenvolvimento De Sistemas No Senai<br>- ⚡ No meu tempo livre gosto de estudar, jogar, ouvir musica e andar de skate</p>
 
 ###
 
